@@ -7,7 +7,7 @@
 I'm a passionate 21 years old kid full-stack developer with a strong focus on backend engineering. I have experience and skills in the following technologies:
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
-- **Backend:** PHP(laravel), MySQL, PostgreSQL, MongoDB, Golang, Express, Django, Rell, c#
+- **Backend:** PHP(laravel), MySQL, PostgreSQL, MongoDB, Golang, Express, Django, Rell, C#
 - **Web3:** Currently learning Rell programming language on chromia to build blockchain backend infrastructures.
 - **DevOps:** Currently learning DevOps engineering and automations.
 - **Cloud:** AWS using Golang
