@@ -9,12 +9,12 @@ I'm a passionate 21 years old kid full-stack developer with a strong focus on ba
 - **Frontend:** HTML, CSS, JavaScript, React.js, Next.js
 - **Backend:** PHP(laravel), MySQL, PostgreSQL, MongoDB, Golang, Express, Django, Rell, C#
 - **Web3:** Currently learning Rell programming language on chromia to build blockchain backend infrastructures.
-- **DevOps:** Currently learning DevOps engineering and automations.
-- **Cloud:** AWS using Golang
-- **ChatGPT:** I have sucessfully learned chatgpt api using golang
-- **Micro Services:** I can build mycro services using GRPC.
+- **DevOps:** I am currenty working on automation.
+- **Cloud:** AWS using Golang.
+- **ChatGPT:** I have sucessfully learned chatgpt api using golang.
+- **Micro Services:** I can build mycro services using GRPC archtecture.
 - **Distributed file storage**
-- **AI/ML:**currently discovering and working lage projects focusing on AI/ML models.
+- **AI/ML:** currently discovering and working by focusing on AI/ML and also i am a member of FTL ML bootcamp.
 
 ## About Me
 
