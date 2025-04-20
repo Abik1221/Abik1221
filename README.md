@@ -1,5 +1,4 @@
-
-     ## Hi there 👋
+## Hi there 👋
 
 
 
@@ -17,17 +16,21 @@ I'm a passionate 21 years old kid full-stack developer with a strong focus on ba
 - **Distributed file storage**
 - **AI/ML:** currently discovering and working by focusing on AI/ML and also i am a member of FTL ML bootcamp.
 
-      ## About Me
+ ## About Me
 
 I am dedicated to building efficient and scalable web applications. My journey in software development has equipped me with a diverse skill set, and I am always eager to learn and explore new technologies.
 
-     ## Projects
+
+## Projects
 
 Feel free to cheeck my repo and give me a feedback I would like to hear from you.
 
-    ## Get in Touch
 
-    -   Email : [nahomkeneni4@gmail.com](mailto:nahomkeneni4@gmail.com)
+## Get in Touch
+
+ -   Email : [nahomkeneni4@gmail.com](mailto:nahomkeneni4@gmail.com)
+
+
 
 Feel free to reach out if you want to collaborate on a project or just want to connect !
 
