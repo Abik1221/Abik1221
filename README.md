@@ -2,7 +2,7 @@
 
 
 
-# Hi there, I'm Nahom Keneni 👋
+# Hi there, I'm Nahom Keneni Bayissa👋
 
 I'm a passionate 21 years old kid full-stack developer with a strong focus on backend engineering. I have experience and skills in the following technologies :
 
