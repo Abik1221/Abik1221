@@ -4,7 +4,7 @@
 
 
 🔭 Hello, I am Nahom Keneni, Python AI/ML excpert,Full stack web developer focusing and mastering Backend enginnering. Proficient in Golang, LAMP stack, Node.js, Typescript, Rell, C# and also with Django<br>
-👯 I’m currently working on My own campany as a CEO and cofounder and developing Interprise level projectets for Ethiopa and Africa.<br>
+👯 I’m currently working on My own campany as a CEO@ Bernos.et and cofounder and developing Interprise level projectets for Ethiopa and Africa.<br>
 🌱 I’m currently learning ML and AI engineering to advance my skill. <br>
 👉 Reach me out nahomkeneni4@gmail.com
 
