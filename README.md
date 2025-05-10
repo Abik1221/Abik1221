@@ -3,7 +3,7 @@
 <p align="center"> <img width = "80%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="abkodes" /> </p>
 
 
-🔭 Hello, I am Nahom Keneni, Python AI/ML expert,Full stack web developer focusing and mastering Backend enginnering. Proficient in Golang, LAMP stack, Node.js, Typescript, Rell, C# and also with Django<br>
+🔭 Hello, I am Nahom Keneni Bayissa, Python AI/ML expert,Full stack web developer focusing and mastering Backend enginnering. Proficient in Golang, LAMP stack, Node.js, Typescript, Rell, C# and also with Django<br>
 👯 I’m currently working @ https://bernos.et as a CEO and cofounder We are dedicatedly developing Interprise level AI powered projectets for Ethiopa and Africa.<br>
 🌱 I’m currently learning ML and AI engineering to advance my skill. <br>
 👉 Reach me out nahomkeneni4@gmail.com
