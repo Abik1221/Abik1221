@@ -4,7 +4,7 @@
 
 
 🔭 Hello, I am Nahom Keneni Bayissa, Python AI/ML expert,Full stack web developer focusing and mastering Backend enginnering. Proficient in Golang, LAMP stack, Node.js, Typescript, Rell, C# and also with Django<br>
-👯 I’m currently working @ https://bernos.et as a CEO and cofounder We are dedicatedly developing Interprise level AI powered projectets for Ethiopa and Africa.<br>
+👯 I’m currently working At Tewanay Enginnering PLC as intern, dedicatedly developing Interprise level AI powered projectets for Ethiopa and Africa.<br>
 🌱 I’m currently learning ML and AI engineering to advance my skill. <br>
 👉 Reach me out nahomkeneni4@gmail.com
 
