@@ -11,9 +11,9 @@
 ## 👋 About Me
 
 🔭 I'm **Nahom Keneni Bayissa**, a passionate **AI/ML Engineer** and **Full Stack Developer**, focused on mastering **backend engineering**.  
-💡 Proficient in **Python**, **Golang**, **Node.js**, **TypeScript**, **C#**, **Django**, **LAMP Stack**, and more.  
-💼 Currently interning at **Tewanay Engineering PLC**, working on **enterprise-level AI-powered solutions** for Ethiopia and Africa.  
-📚 Eager to grow in **Machine Learning**, **Deep Learning**, and **AI Engineering**.  
+💡 Proficient in **Python**, **Golang**, **Software Arctecture and system design**, **Fast API**, **ML with sckit learn**, **Django**, **Agentic AI with Langcahin and Langgraph**, and more.  
+💼 Currently working at **ZemnPharma**, working on **enterprise-level AI-powered Interprise Pharmacy CMS solution** for Ethiopia and Africa.  
+📚 Eager to grow in **Data engineering**, **Deep Learning**, and **AI Engineering**.  
 📬 Reach me at: **[nahomkeneni4@gmail.com](mailto:nahomkeneni4@gmail.com)**
 
 ---
