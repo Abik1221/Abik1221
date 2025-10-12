@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100%" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=6CD56C&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Nahom+Keneni+%F0%9F%91%8B;Software+Engineer+%7C+AI+and+Backend+Developer" alt="Typing SVG" />
 </p>
