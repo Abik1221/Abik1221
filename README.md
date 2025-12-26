@@ -12,7 +12,7 @@
 
 🔭 I'm **Nahom Keneni Bayissa**, a passionate **AI/ML Engineer** and **Full Stack Developer**, focused on mastering **backend engineering**.  
 💡 Proficient in **Python**, **Golang**, **Software Arctecture and system design**, **Fast API**, **ML with sckit learn**, **Django**, **Agentic AI with Langcahin and Langgraph**, and more.  
-💼 CEO and Founder at **Mesob AI**, working on **enterprise-level AI-powered Interprise Business Managemnt solution** for Ethiopia and Africa.  
+working on **enterprise-level AI-powered Interprise Business Managemnt solution** for My clinets over upwork and locally.  
 📚 Eager to grow in **Data engineering**, **Deep Learning**, and **AI Engineering**.  
 📬 Reach me at: **[nahomkeneni4@gmail.com](mailto:nahomkeneni4@gmail.com)**
 
